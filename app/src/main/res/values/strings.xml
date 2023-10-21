@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">hiltoncn-demo</string>
+    <string name="welcome_title">Welcome to Pok é mon Paradise</string>
+    <string name="search_hit">Search for species</string>
+    <string name="search">search</string>
+    <string name="species">pokenmon name :</string>
+    <string name="capture_rate">Capture rate :</string>
+    <string name="species_name">Species name :</string>
+    <string name="next_page">next page</string>
+    <string name="return_page">return</string>
+    <string name="ability">ability :</string>
+</resources>
